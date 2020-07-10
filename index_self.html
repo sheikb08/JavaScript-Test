@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self-Test</title>
+    <link rel="stylesheet" type="text/css" href="style_self.css">
+</head>
+
+<body>
+
+    <!--Creates the form design for the quiz-->
+    <div class="grid">
+        <!--labels the name of the application "Quiz"-->
+        <div id="quiz">
+            <h1>Quiz</h1>
+            <hr style="margin-bottom: 20px">
+            <!--This ID is a placeholder for the javascript questions currently in an array-->
+            <p id="question"></p>
+            <!--Buttons that will be used as multple choice selections-->
+            <div class="buttons">
+                <button id="btn0"><span id="choice0"></span></button>
+                <button id="btn1"><span id="choice1"></span></button>
+                <button id="btn2"><span id="choice2"></span> </button>
+                <button id="btn3"><span id="choice3"></span></button>
+            </div>
+
+            <hr style="margin-top: 50px">
+
+            <!--This footer will inform the client of which question they are on.-->
+            <footer>
+                <p id="progress">Question x of y</p>
+            </footer>
+
+
+        </div>
+    </div>
+
+
+    <script src="quiz_controller.js"></script>
+    <script src="question.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
