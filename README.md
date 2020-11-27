@@ -13,9 +13,7 @@ In this assignment I created an instance of a user-defined object type to pull i
 
 ## Methodoloy
 
-One of the key things to note in this task was that all information had to be documented via JavaScript to avoid cheating. The HTML file conatain nothing other then 4 buttons and a couple of reference ID's and tags.
-
-I broke the project up into 3 JavaScript files consisting of object prototypes and functions. This method allowed me to better organize the workflow of the application and challenged me to really understand function arguments and how they are passed.
+* I created a quiz that was a combination of multiple-choice questions and interactive challenges. Built a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
 ## Technology 
 
