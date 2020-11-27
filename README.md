@@ -30,7 +30,7 @@ In this assignment I created an instance of a user-defined object type to pull i
 
 
 ## Screenshot  
-|![HTML Screenshot](images/screen.jpg)
+|![HTML Screenshot](images/screen.JPG)
 
 ## Contributor
 * Brandon Johnson
