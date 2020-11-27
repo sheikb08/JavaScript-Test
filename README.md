@@ -32,7 +32,7 @@ I broke the project up into 3 JavaScript files consisting of object prototypes a
 
 
 ## Screenshot  
-|![HTML Screenshot](images/screen.jpg)
+|![HTML Screenshot](images/screen.JPG)
 
 ## Contributor
 * Brandon Johnson
