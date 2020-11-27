@@ -3,15 +3,13 @@
 In this assignment I created an instance of a user-defined object type to pull in questions and answers that could be manipulated by functions. 
 
 ## Table of Contents
-  - [Day Planner](#javascript-quiz)
+  - [JavaScript Quiz](#javascript-quiz)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Technology](#technology)
-  - [Business Context](#business-context)
-  - [Demo](#demo)
   - [Contributors](#contributors)
 
-## Methodoloy
+## Description
 
 * I created a quiz that was a combination of multiple-choice questions and interactive challenges. Built a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code.
 
